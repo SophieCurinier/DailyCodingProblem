@@ -13,5 +13,6 @@
 - **Prob 128 :** Tower of Hanoi
 - **Prob 140 :** List of integer with only 2 element once
 - **Prob 144 :** Partition a list of integer in 3 parts
+- **Prob 151 :** Change color of an pixel and all its neighbor
 
 ## Hard
