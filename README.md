@@ -2,8 +2,8 @@
 
 ## Easy
 
+- **Prob 124 :** Flip coins
 - **Prob 127 :** Adition of linked list
-- 
 
 ## Medium
 
