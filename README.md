@@ -2,7 +2,7 @@
 
 ## Easy
 
-- **Prob 124 :** Flip coins
+- **Prob 124 :** How many round to flip alls coins
 - **Prob 127 :** Adition of linked list
 
 ## Medium
@@ -16,3 +16,4 @@
 - **Prob 151 :** Change color of an pixel and all its neighbor
 
 ## Hard
+- **Prob 150 :** Find k nearest point
