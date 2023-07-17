@@ -4,6 +4,7 @@
 
 - **Prob 124 :** How many round to flip alls coins
 - **Prob 127 :** Adition of linked list
+- **Prob 161 :** Reversed 32integer bits
 - **Prob 176 :** Are 2 strings mapped?
 - **Prob 185 :** Calcul intersect area between 2 rectangles
 
