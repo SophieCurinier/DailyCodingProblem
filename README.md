@@ -8,6 +8,7 @@
 - **Prob 161 :** Reversed 32integer bits
 - **Prob 176 :** Are 2 strings mapped?
 - **Prob 185 :** Calcul intersect area between 2 rectangles
+- **Prob 231 :** Rearrange string so that no 2 adjacent characters are the same
 
 ## Medium
 
