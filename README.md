@@ -24,4 +24,5 @@
 
 ## Hard
 - **Prob 150 :** Find k nearest point
+- **Prob 219 :** Connect 4
 - **Prob 226 :** Find alphabetical order of character from a dictonnary
