@@ -24,6 +24,7 @@
 
 ## Hard
 - **Prob 150 :** Find k nearest point
+- **Prob 217 :** Find the next sparse integer
 - **Prob 219 :** Connect 4
 - **Prob 226 :** Find alphabetical order of character from a dictonnary
 - **Prob 235 :** Find min and max of the array with less than 2*(N-2) comparaisons
